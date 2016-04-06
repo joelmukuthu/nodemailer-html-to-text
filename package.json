@@ -1,5 +1,5 @@
 {
-  "name": "nodemailer-html-to-text",
+  "name": "nodemailer-html-to-text-joelmukuthu",
   "version": "2.0.0",
   "description": "Generate text content from html for Nodemailer e-mails",
   "main": "src/nodemailer-html-to-text.js",
